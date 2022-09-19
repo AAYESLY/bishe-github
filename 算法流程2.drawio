@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T02:09:57.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="TCkr5t_4uYeyEYAlMeAE" version="20.3.0" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7Vddb5swFP0193FTwHzYj0BIN23TKnXSukcL3MBE4ow4hezXzxcbAkmzry6rKvUlss+91/Y95wAOkGTVXtV8U3yQuajAneUtkDm4Lpt5+heBvQF83zHAsi5zA42Am/K7sODMorsyF9tJopKyUuVmCmZyvRaZmmC8rmUzTbuT1XTXDV+KE+Am49Up+rnMVWFQ6oYH/I0ol0W/sxMwE1nxPtl2si14LpsRRFIgSS2lMqNVm4gKuet5MXWLM9HhYLVYq98pSMqv79Jg+5G8lbef+Pvrplw0rxzbxz2vdrZjcINKLxjfSb2uZoxnJhB82+FRY0h9iFKgeuBBPAdGRjE3WJocCjSFOMRkugAWdMkLiByLYCgEyiBmkAZAZxD1ydRFhPkQz/qz6K7McezyhlC171Wq5W6dC2x0psNNUSpxszEHb7QtNVaoVaVnjm3MGs31htXGRFpu70WtRDuCLLFXQq6Eqvc6xUYHu+5725tpc7AM8SxWjOziW4xbly6HlQ9C6oHV8k90pRfStRcGNZtjfsogcoF6XbnXDULQ/VMtuZY5AZqMlNa1egunK19g2uCPZ6q08/RSs8tJnUCU4LMcLVA3IzWjqKcuZyHmxAQdgTlp93QPIdZp7tm9WPRcFX76h7n/glxAYS0sczFZJ+BjefqS1jkEX88otd8tGEIcYz4aJEWPPFNhCX1yYd0HhD1iTV8bNji8q0Qb4YVGkyHWuR3Os4pvt2U2JW/K9DGVoi3VLcZe+3b2xdbheN7asm6yt5Oz9It8cn86JX9Erv8TbmtRcVXeT29dDxFud7iWZed8qy0Jme5m8mL2jlTbyl2dCVs3vif9eil2tJTi9VKok6U6DwytP8IW5MUWl7KF++9s4f5vW3gvtriULchf24Ke+ag82hR6evhzaNIP/7BJ+gM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-19T02:19:23.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JpkbLM3xzUdGUfwzX775" version="20.3.0" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="904" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CijKE6sO3IoXTaLPwiFw-17" value="&lt;font face=&quot;宋体&quot;&gt;获取信号特性参数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="230" y="170" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CijKE6sO3IoXTaLPwiFw-18" value="&lt;font face=&quot;宋体&quot;&gt;数据预处理，特征提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="230" y="270" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CijKE6sO3IoXTaLPwiFw-19" value="&lt;font face=&quot;宋体&quot;&gt;本课题算法计算鉴定&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="230" y="370" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CijKE6sO3IoXTaLPwiFw-20" value="&lt;font face=&quot;宋体&quot;&gt;输出毒品信号检测结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="230" y="460" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CijKE6sO3IoXTaLPwiFw-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="220" as="sourcePoint" />
+            <mxPoint x="399.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CijKE6sO3IoXTaLPwiFw-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="320" as="sourcePoint" />
+            <mxPoint x="399.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CijKE6sO3IoXTaLPwiFw-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="420" as="sourcePoint" />
+            <mxPoint x="400" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ClJPf6CTKpAUNpyXUOQn-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ClJPf6CTKpAUNpyXUOQn-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ClJPf6CTKpAUNpyXUOQn-1" target="CijKE6sO3IoXTaLPwiFw-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ClJPf6CTKpAUNpyXUOQn-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ClJPf6CTKpAUNpyXUOQn-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CijKE6sO3IoXTaLPwiFw-20" target="ClJPf6CTKpAUNpyXUOQn-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="440" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
