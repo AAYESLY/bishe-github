@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T14:21:43.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="o4zAyTV9iqviyxQXLOPn" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T14:31:56.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="VAqq1SIsgXgwVYAKgIl7" version="24.0.1" type="github">
   <diagram id="_y_MiWxf_ru2kXOl8PKq" name="第 1 页">
-    <mxGraphModel dx="1572" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
         <mxCell id="zpgxpEKYq8m902Y9zk07-10" value="&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;并行计算&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontFamily=宋体;fontSize=24;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="480" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zpgxpEKYq8m902Y9zk07-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="zpgxpEKYq8m902Y9zk07-11" target="zpgxpEKYq8m902Y9zk07-17">
+        <mxCell id="zpgxpEKYq8m902Y9zk07-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" edge="1" parent="1" source="zpgxpEKYq8m902Y9zk07-11" target="zpgxpEKYq8m902Y9zk07-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="315" y="980.0000000000002" as="targetPoint" />
           </mxGeometry>
@@ -164,7 +164,16 @@
           <mxGeometry x="222.5" y="880" width="185" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zpgxpEKYq8m902Y9zk07-17" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="270" y="970" width="90" height="50" as="geometry" />
+          <mxGeometry x="270" y="1060" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zpgxpEKYq8m902Y9zk07-18" value="物流配送路径规划方案" style="whiteSpace=wrap;html=1;fontSize=24;fontFamily=宋体;fillColor=#fff2cc;rounded=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="176.25" y="970" width="277.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zpgxpEKYq8m902Y9zk07-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zpgxpEKYq8m902Y9zk07-18" target="zpgxpEKYq8m902Y9zk07-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1080" as="targetPoint" />
+            <mxPoint x="510" y="1060" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
