@@ -8,7 +8,7 @@
           <mxGeometry x="468" y="539.5" width="510" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;dashed=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="360" width="320" height="330" as="geometry" />
+          <mxGeometry x="-180" y="360" width="320" height="330" as="geometry" />
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="ek3AfG3ewywKdCFBDNp1-6" target="ek3AfG3ewywKdCFBDNp1-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-29" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontFamily=宋体;" parent="ek3AfG3ewywKdCFBDNp1-28" vertex="1" connectable="0">
           <mxGeometry x="-0.2594" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="1" as="offset" />
+            <mxPoint x="-13" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-12" value="&lt;font&gt;是否所有蚂蚁&lt;/font&gt;&lt;div&gt;&lt;font&gt;完成路径规划？&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;fontFamily=宋体;" parent="1" vertex="1">
@@ -64,22 +64,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-25" value="&lt;font&gt;计算所有蚂蚁的适应度值，选出最优蚂蚁个体&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=none;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="395" width="280" height="60" as="geometry" />
+          <mxGeometry x="-160" y="395" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontFamily=宋体;" parent="1" source="ek3AfG3ewywKdCFBDNp1-30" target="ek3AfG3ewywKdCFBDNp1-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-30" value="&lt;font&gt;克隆多个最佳蚂蚁个体，并对克隆体进行突变&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=none;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="492" width="280" height="60" as="geometry" />
+          <mxGeometry x="-160" y="492" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontFamily=宋体;" parent="1" source="ek3AfG3ewywKdCFBDNp1-32" target="ek3AfG3ewywKdCFBDNp1-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-32" value="&lt;font&gt;用克隆体中最佳个体替代最佳蚂蚁个体&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=none;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="582.5" width="280" height="60" as="geometry" />
+          <mxGeometry x="-160" y="582.5" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-35" value="&lt;font&gt;克隆算子&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=24;strokeColor=none;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="674" width="120" height="30" as="geometry" />
+          <mxGeometry x="-90" y="674" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ek3AfG3ewywKdCFBDNp1-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontFamily=宋体;" parent="1" source="ek3AfG3ewywKdCFBDNp1-36" target="ek3AfG3ewywKdCFBDNp1-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -113,8 +113,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="740" />
-              <mxPoint x="200" y="290" />
+              <mxPoint x="180" y="740" />
+              <mxPoint x="180" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
